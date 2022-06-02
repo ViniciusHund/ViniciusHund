@@ -4,5 +4,5 @@ Amamaos nossa professora de Pensamento Computacional
 
 A vida é curta, então estou sorrindo enquanto ainda tenho todos os meus dentes.
 
-
+😚 😋 😛 😝 😜
 since 2007.
