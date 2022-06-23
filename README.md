@@ -9,11 +9,6 @@ Amamaos nossa professora de Pensamento Computacional
 
 <hr/><!DOCTYPE html>
 <html>
-<style>
-body {
-  font-size: 20px;
-}
-</style>
 <body>
 
 <span style='font-size:100px;'>&#127801;</span>
