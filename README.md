@@ -23,9 +23,4 @@ Amamaos nossa professora de Pensamento Computacional
 </html><hr/>
 
 
-since 2007.<!DOCTYPE html><html>
-<body>
-
-<span style='font-size:100px;'>&#129410;</span>
-</body>
-</html>
+ since 2007.<!DOCTYPE html><html><span style='font-size:100px;'>&#129410;</span></body></html>
