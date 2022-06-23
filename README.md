@@ -7,7 +7,19 @@ Amamaos nossa professora de Pensamento Computacional
 <i>A vida é curta, então estou sorrindo enquanto ainda tenho todos os meus dentes.<i>
  
 
-<hr/>😚 😋 😛 😝 😜<hr/>
+<hr/><!DOCTYPE html>
+<html>
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+<body>
+
+<span style='font-size:100px;'>&#127801;</span>
+
+</body>
+</html><hr/>
 
 
 since 2007.
