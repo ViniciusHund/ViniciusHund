@@ -1,5 +1,5 @@
 ### Hi there 👋
-Somos alunos do colegio João de Faria Pioli, do 1*E
+<b>Somos alunos do colegio João de Faria Pioli, do 1*E<b>
 
 Amamaos nossa professora de Pensamento Computacional
 
