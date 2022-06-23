@@ -7,7 +7,7 @@ Amamaos nossa professora de Pensamento Computacional
 <i>A vida é curta, então estou sorrindo enquanto ainda tenho todos os meus dentes.<i>
  
 
-<hr/>😚 😋 😛 😝 😜 🗿<hr/>
+<hr/>😚 😋 😛 😝 😜<hr/>
 
 
 since 2007.
