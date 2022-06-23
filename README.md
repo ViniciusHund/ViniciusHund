@@ -14,10 +14,8 @@ Amamaos nossa professora de Pensamento Computacional
 <span style='font-size:100px;'>&#127801;</span>a vida nao é facil, faça como eu, desista!<!DOCTYPE html>
 <html>
 <body>
-
+ 
 <span style='font-size:100px;'>&#127875;</span>
-<p>I will display &#127875;</p>
-<p>I will display &#x1F383;</p>
 
 </body>
 </html>
