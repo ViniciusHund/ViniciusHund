@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b>Somos alunos do colegio João de Faria Pioli, do 1*E<b>
+<b>Somos alunos do colegio João de Faria Pioli, do 2*D<b>
 
 
 
